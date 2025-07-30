@@ -20,7 +20,7 @@ This is a Student Management System built with PHP.
 
 1. **Rename the project folder:**
 
-   Change the folder name from:
+   Change the folder name from:Student-Management-System-master
 
 
 
@@ -34,7 +34,7 @@ to something simpler, like:
 - Open your browser and go to:
 
   ```
-  http://localhost/studentms
+  http://localhost/Student-Management-System-master
   ```
 
 ---
